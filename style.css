@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    max-width: 1400px;
+}
+.form-select{
+    width: 500px;
+}
+.date, .date-t, .date-a{
+    margin-left: 10px;
+    color: blueviolet;
+}
